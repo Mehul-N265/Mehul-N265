@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mehul-N265
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning typescript!
+- 💞️ I’m looking to collaborate on with you guys in Javascript.
+- Looking forward for your harmony.
