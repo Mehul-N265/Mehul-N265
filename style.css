@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Yusei%20%Magic&display=swap");
+body {
+  margin: 0;
+  padding: 0px;
+  overflow-x: hidden;
+}
+.anime {
+  position: relative;
+  background-image: linear-gradient(rgba(182, 75, 224, 0.933), #cde967);
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+}
+.anime img {
+  position: absolute;
+  width: 100%;
+}
+#mountains {
+  bottom: 0%;
+}
+#cloud__one {
+  width: 25%;
+  bottom: 40%;
+  margin-left: 50%;
+}
+#cloud__two {
+  width: 15%;
+  bottom: 85%;
+  margin-left: 60%;
+}
+#cloud__three {
+  width: 32%;
+  bottom: 60%;
+  margin-right: 65%;
+}
+#cloud__four {
+  width: 15%;
+  bottom: 80%;
+  margin-right: 75%;
+}
+#cloud__five {
+  width: 20%;
+  bottom: 60%;
+  margin-left: 20%;
+}
+#js {
+  width: 7%;
+  bottom: 30%;
+  margin-right: 70%;
+}
+#html {
+  width: 7%;
+  bottom: 30%;
+  margin-right: 55%;
+}
+#css {
+  width: 5%;
+  bottom: 30%;
+  margin-right: 40%;
+}
+#scratch {
+  width: 7%;
+  bottom: 30%;
+  margin-right: 25%;
+}
+#air__balloon {
+  width: 15%;
+  bottom: 10%;
+}
+.about__me {
+  height: 100vh;
+  background-color: #67cc28;
+  padding: 40px;
+  text-align: center;
+  font-family: "Acme", Arial, Helvetica, sans-serif;
+}
+#flush__move {
+  font-size: 2rem;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #07412f;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(255, 23, 15);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(248, 57, 239);
+}
+#projects {
+  border-radius: 20px;
+  background-color: rgb(179, 179, 13);
+  height: auto;
+}
+#projects h1 {
+
+  font-size: 55px;
+  text-align: center;
+  text-decoration: underline;
+}
+.project-tile {
+  display: inline-block;
+  max-width: 100%;
+
+  font-size: 35px;
+  margin: 20px;
+  padding: 10px;
+  background-color: black;
+
+  border-radius: 15px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.project-tile:hover {
+  background: white;
+  color: black;
+  box-shadow: 0px 6px 6px 4px #67cc28;
+}
