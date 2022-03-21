@@ -2,4 +2,5 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning typescript!
 - 💞️ I’m looking to collaborate on with you guys in Javascript.
-- Looking forward for your harmony.
+- Contact me - mehulnimbalkar265@gmail.com
+- Looking forward for your cooperation.
